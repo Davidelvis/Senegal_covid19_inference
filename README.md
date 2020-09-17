@@ -1,5 +1,5 @@
 # Senegal_covid19_inference
-# Change point analysis to quantify the impact of Senegal government policy interventions to slow the spread of COVID-19 ori
+# Change point analysis to quantify the impact of Senegal government policy interventions to slow the spread of COVID-19 
 # Business objective
 The main business objective of this challenge is to quantify the statistical significance of a public health policy introduced by Senegal government to slow down the spread of COVID-19.
 
